@@ -1,0 +1,1 @@
+Please enter a positive, whole-number temperature value: Invalid input. Input must be positive and a whole number.
