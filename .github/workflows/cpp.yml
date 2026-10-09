@@ -1,4 +1,3 @@
-cat > .github/workflows/cpp.yml <<'EOF'
 name: Build and test
 on: [push, pull_request]
 permissions:
