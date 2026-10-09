@@ -1,11 +1,11 @@
 Input/Output Contract
 
 Input:
-    Please enter a positive, whole-number temperature value: 67
+    Please enter a positive, whole-number temperature value: 80
     Is the temperature in C or F?: F
 
 Output:
-    Temperature in C: 19
+    Temperature in C: 26
 
 Test scenarios:
     Test 1: 0 C converts to 32 F
