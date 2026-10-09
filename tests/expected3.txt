@@ -1,1 +1,1 @@
-Please enter a positive, whole-number temperature value: Temperature in C: 0
+Please enter a positive, whole-number temperature value: Is the temperature in C or F?: Temperature in F: 32
