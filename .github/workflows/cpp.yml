@@ -9,4 +9,3 @@ jobs:
       - uses: actions/checkout@v4
       - name: Compile and run acceptance tests
       run: bash test.sh
-EOF
