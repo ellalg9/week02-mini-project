@@ -1,1 +1,1 @@
-Please enter a positive, whole-number temperature value: Is the temperature in C or F?: Invalid input. Conversion not possible.
+Please enter a non-negative, whole-number temperature value: Is the temperature in C or F?: Invalid input. Conversion not possible.
